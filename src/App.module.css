@@ -1,0 +1,38 @@
+.container {
+  max-width: 700px;
+  margin: 40px auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #222;
+  line-height: 1.6;
+  padding: 0 20px;
+  background-color: #f7faff;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgb(0 0 0 / 0.1);
+}
+
+.header {
+  color: #007acc;
+  border-bottom: 2px solid #007acc;
+  padding-bottom: 8px;
+  margin-top: 20px;
+}
+
+.subtitle {
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-weight: 500;
+}
+
+.list {
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+
+.link {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
